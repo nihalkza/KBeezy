@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/KBeezy/static/css/main.41b26782.css",
-    "main.js": "/KBeezy/static/js/main.96a040fe.js",
+    "main.js": "/KBeezy/static/js/main.d6d02aa6.js",
     "index.html": "/KBeezy/index.html",
     "main.41b26782.css.map": "/KBeezy/static/css/main.41b26782.css.map",
-    "main.96a040fe.js.map": "/KBeezy/static/js/main.96a040fe.js.map"
+    "main.d6d02aa6.js.map": "/KBeezy/static/js/main.d6d02aa6.js.map"
   },
   "entrypoints": [
     "static/css/main.41b26782.css",
-    "static/js/main.96a040fe.js"
+    "static/js/main.d6d02aa6.js"
   ]
 }
