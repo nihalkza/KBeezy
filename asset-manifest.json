@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KBeezy/static/css/main.41b26782.css",
+    "main.js": "/KBeezy/static/js/main.96a040fe.js",
+    "index.html": "/KBeezy/index.html",
+    "main.41b26782.css.map": "/KBeezy/static/css/main.41b26782.css.map",
+    "main.96a040fe.js.map": "/KBeezy/static/js/main.96a040fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41b26782.css",
+    "static/js/main.96a040fe.js"
+  ]
+}
